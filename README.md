@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joel-X
-- 👀 I'M interested in programming
+- 👀 I'M interested in programming 
 - 🌱 computer science
 - 💞️ I’m looking to collaborate on app development
 - 📫 youtube

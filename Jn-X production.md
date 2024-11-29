@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joel-X
+- 👋 Hi, I’m @Joel-X on
 - 👀 I'M interested in programming 
 - 🌱 computer science
 - 💞️ I’m looking to collaborate on app development
